@@ -27,7 +27,7 @@ See: **https://codecrunchworldwide.vercel.app**
 ### Week 1 — Device Setup + First Sounds
 Set up the device, get familiar with the environment, and make the hardware respond by playing simple songs.
 
-### Week 2 — Buttons, LED Matrix, and a Mini Interactive Project
+### Week 2 — Buttons, LEDs, and a Mini Interactive Project
 Build on the setup from Week 1 by using inputs and outputs to make a simple beginner-friendly interactive activity.
 
 ### Next weeks
