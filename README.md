@@ -22,12 +22,6 @@ This series is designed to feel approachable:
 ## Updates, event details, and access info
 See: **https://codecrunchworldwide.vercel.app**
 
-## What is in this repository
-
-- [Course Overview](./raspberry-pi-course-overview.md)
-- [Week 2 Workshop](./week-2-raspberry-pi-workshop.md)
-- [Week 2 Slides Guide](./slides-week-2-raspberry-pi-draft.md)
-
 ## Workshop roadmap
 
 ### Week 1 — Device Setup + First Sounds
