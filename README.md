@@ -26,6 +26,7 @@ See: **https://codecrunchworldwide.vercel.app**
 
 ### Week 1 — Device Setup + First Sounds
 Set up the device, get familiar with the environment, and make the hardware respond by playing simple songs.
+
 Unit 1 Resources here: https://github.com/Raspberry-Pi-Code-Crunch-Worldwide/C4-RASPBERRYPI-FOUNDATIONS/tree/main/SPRING-2026/UNIT-1
 
 ### Week 2 — Buttons, LEDs, and a Mini Interactive Project
