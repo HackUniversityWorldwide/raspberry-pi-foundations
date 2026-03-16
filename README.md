@@ -1,7 +1,8 @@
 # Raspberry Pi Foundations
 
 **Raspberry Pi Code Crunch | C4**  
-**Hosted by CodeCrunch WorldWide in collaboration with Google Developer Group at FIU(GDG at FIU)** 
+**Hosted by CodeCrunch WorldWide in collaboration with Google Developer Group at FIU (GDG at FIU)** 
+
 **Worldwide | All Majors | All Universities | High School Students (13+)**
 
 A beginner-friendly workshop series for students who want to explore Raspberry Pi, hardware, programming, and hands-on building in a simple, practical, and fun way.
